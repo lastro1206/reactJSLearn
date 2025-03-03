@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/reactJSLearn/static/js/main.2be83d5b.js",
+    "main.js": "/reactJSLearn/static/js/main.f5e0da2e.js",
     "index.html": "/reactJSLearn/index.html",
-    "main.2be83d5b.js.map": "/reactJSLearn/static/js/main.2be83d5b.js.map"
+    "main.f5e0da2e.js.map": "/reactJSLearn/static/js/main.f5e0da2e.js.map"
   },
   "entrypoints": [
-    "static/js/main.2be83d5b.js"
+    "static/js/main.f5e0da2e.js"
   ]
 }
